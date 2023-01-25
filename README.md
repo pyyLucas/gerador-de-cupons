@@ -1,2 +1,1 @@
-# gerador e cupons
- 
+# Este código importa as bibliotecas random, string e csv, usa a função string.ascii_letters e string.digits para gerar uma sequencia de letras e números e a função random.choice() para escolher caracteres aleatórios. A função generate_coupon gera um cupom com comprimento de 8 caracteres (padrão) e a função save_to_csv(coupons) salva os cupons gerados em um arquivo csv chamado "coupons.csv". Você pode ajustar o comprimento do cupom e o número de cupons gerados de acordo com suas necessidades. E também pode salvar esses cupons gerados numa lista ou num banco de dados.
